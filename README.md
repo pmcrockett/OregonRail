@@ -1,6 +1,8 @@
-# OregonRail
+# Oregon Rail
 
 [![Oregon Rail YouTube link](OregonRailYouTubeThumbnail.gif)](https://www.youtube.com/watch?v=pZ1c-4tpMT0 "Oregon Rail YouTube link")
+
+[On YouTube](https://www.youtube.com/watch?v=pZ1c-4tpMT0) | [On itch.io](https://mozipha.itch.io/oregon-rail)
 
 It is 1847. You have invented the world's first trackless, all-terrain locomotive, single-handedly revolutionizing the Oregon trailing industry. Show the world that dysentery can be outrun.
 
@@ -8,12 +10,12 @@ Created for Epic MegaJam 2023 (theme: ANTIQUATED FUTURE). This is a weird little
 
 
 
---INSTRUCTIONS--
+### Instructions
 
-Steer -- Left control stick, D-pad, WASD, arrow keys
+* Steer -- Left control stick, D-pad, WASD, arrow keys
 
-Accelerate -- A button, right trigger, WASD, left shift, arrow keys
+* Accelerate -- A button, right trigger, WASD, left shift, arrow keys
 
-Brake -- B button, left trigger, WASD, left ctrl, arrow keys
+* Brake -- B button, left trigger, WASD, left ctrl, arrow keys
 
-Avoid slowpokes in wagons and get to Oregon before time runs out. If you have trouble taking corners, slow down -- you'll turn more sharply at low speeds!
+* Avoid slowpokes in wagons and get to Oregon before time runs out. If you have trouble taking corners, slow down -- you'll turn more sharply at low speeds!
