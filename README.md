@@ -1,5 +1,8 @@
 # OregonRail
- It is 1847. You have invented the world's first trackless, all-terrain locomotive, single-handedly revolutionizing the Oregon trailing industry. Show the world that dysentery can be outrun.
+
+[![Oregon Rail YouTube link](OregonRailYouTubeThumbnail.gif)](https://www.youtube.com/watch?v=pZ1c-4tpMT0 "Oregon Rail YouTube link")
+
+It is 1847. You have invented the world's first trackless, all-terrain locomotive, single-handedly revolutionizing the Oregon trailing industry. Show the world that dysentery can be outrun.
 
 Created for Epic MegaJam 2023 (theme: ANTIQUATED FUTURE). This is a weird little Oregon Trail-themed OutRun-style game that explores using real 3D to simulate the fake 3D of 80's and early 90's driving games.
 
